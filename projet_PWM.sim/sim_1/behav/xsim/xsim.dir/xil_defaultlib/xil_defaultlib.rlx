@@ -5,6 +5,8 @@ Oct 14 2022
 C:/projet_PWM/projet_PWM.srcs/sim_1/new/Compteur_tb.vhd,1730119963,vhdl,,,,compteur_tb,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sim_1/new/Decodeur_tb.vhd,1730052718,vhdl,,,,decodeur_tb,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sim_1/new/Reg_ctl_tb.vhd,1730049631,vhdl,,,,reg_ctl_tb,,,,,,,,
+C:/projet_PWM/projet_PWM.srcs/sim_1/new/comp_per_tb.vhd,1730304617,vhdl,,,,comp_per_tb,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sources_1/new/Compteur.vhd,1730118740,vhdl,C:/projet_PWM/projet_PWM.srcs/sim_1/new/Compteur_tb.vhd,,,compteur,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sources_1/new/Decodeur.vhd,1730051773,vhdl,C:/projet_PWM/projet_PWM.srcs/sim_1/new/Decodeur_tb.vhd,,,decodeur,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sources_1/new/Reg_ctl.vhd,1730045091,vhdl,C:/projet_PWM/projet_PWM.srcs/sim_1/new/Reg_ctl_tb.vhd,,,reg_ctl,,,,,,,,
+C:/projet_PWM/projet_PWM.srcs/sources_1/new/comp_per.vhd,1730304431,vhdl,C:/projet_PWM/projet_PWM.srcs/sim_1/new/comp_per_tb.vhd,,,comp_per,,,,,,,,
