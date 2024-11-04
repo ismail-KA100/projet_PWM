@@ -7,6 +7,8 @@ C:/projet_PWM/projet_PWM.srcs/sim_1/new/Decodeur_tb.vhd,1730052718,vhdl,,,,decod
 C:/projet_PWM/projet_PWM.srcs/sim_1/new/Generateur_PWM_tb.vhd,1730567353,vhdl,,,,generateur_pwm_tb,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sim_1/new/Reg_ctl_tb.vhd,1730049631,vhdl,,,,reg_ctl_tb,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sim_1/new/comp_per_tb.vhd,1730304617,vhdl,,,,comp_per_tb,,,,,,,,
+C:/projet_PWM/projet_PWM.srcs/sim_1/new/gene_PWM.vhd,1730665685,vhdl,C:/projet_PWM/projet_PWM.srcs/sim_1/new/gene_pwm_tb.vhd,,,gene_pwm,,,,,,,,
+C:/projet_PWM/projet_PWM.srcs/sim_1/new/gene_pwm_tb.vhd,1730666049,vhdl,,,,gene_pwm_tb,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sources_1/new/Comp_duty.vhd,1730490754,vhdl,C:/projet_PWM/projet_PWM.srcs/sources_1/new/Generateur_PWM.vhd,,,comp_duty,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sources_1/new/Compteur.vhd,1730551090,vhdl,C:/projet_PWM/projet_PWM.srcs/sources_1/new/Generateur_PWM.vhd,,,compteur,,,,,,,,
 C:/projet_PWM/projet_PWM.srcs/sources_1/new/Decodeur.vhd,1730051773,vhdl,C:/projet_PWM/projet_PWM.srcs/sources_1/new/Generateur_PWM.vhd,,,decodeur,,,,,,,,

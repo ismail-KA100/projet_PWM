@@ -1,6 +1,6 @@
 Vivado Simulator v2022.2
 Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Generateur_PWM_tb_behav xil_defaultlib.Generateur_PWM_tb -log elaborate.log 
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot gene_pwm_tb_behav xil_defaultlib.gene_pwm_tb -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
@@ -11,14 +11,6 @@ Compiling package std.standard
 Compiling package std.textio
 Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
-Compiling architecture archi_compteur of entity xil_defaultlib.Compteur [compteur_default]
-Compiling architecture arch_reg_ctl of entity xil_defaultlib.Reg_ctl [reg_ctl_default]
-Compiling architecture archi_registre_period of entity xil_defaultlib.Registre_period [registre_period_default]
-Compiling architecture archi_registre_duty of entity xil_defaultlib.Registre_duty [registre_duty_default]
-Compiling architecture archi_decodeur of entity xil_defaultlib.Decodeur [decodeur_default]
-Compiling architecture archi_comp_per of entity xil_defaultlib.comp_per [comp_per_default]
-Compiling architecture archi_comp_duty of entity xil_defaultlib.Comp_duty [comp_duty_default]
-Compiling architecture archi_bascule_pio of entity xil_defaultlib.bascule_PIO [bascule_pio_default]
-Compiling architecture archi_generateur_pwm of entity xil_defaultlib.Generateur_PWM [generateur_pwm_default]
-Compiling architecture behavioral of entity xil_defaultlib.generateur_pwm_tb
-Built simulation snapshot Generateur_PWM_tb_behav
+Compiling architecture archi_gene_pwm of entity xil_defaultlib.gene_PWM [gene_pwm_default]
+Compiling architecture behavioral of entity xil_defaultlib.gene_pwm_tb
+Built simulation snapshot gene_pwm_tb_behav
