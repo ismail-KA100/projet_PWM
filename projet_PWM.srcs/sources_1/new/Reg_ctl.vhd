@@ -33,10 +33,10 @@ use IEEE.STD_LOGIC_1164.ALL;
 
 entity Reg_ctl is
     Port ( load : in STD_LOGIC;
-           d_in : in STD_LOGIC_VECTOR (8 downto 0);
+           d_in : in STD_LOGIC_VECTOR (7 downto 0);
            reset : in STD_LOGIC;
            clk : in STD_LOGIC;
-           d_out : out STD_LOGIC_VECTOR (8 downto 0));
+           d_out : out STD_LOGIC_VECTOR (7 downto 0));
 end Reg_ctl;
 
 architecture arch_Reg_ctl of Reg_ctl is
@@ -45,7 +45,7 @@ architecture arch_Reg_ctl of Reg_ctl is
 begin
 process(clk,reset)
  begin 
-if reset ='0' then
+if reset ='1' then
    d_out <=(others => '0');
  elsif rising_edge(clk) then 
   if load='1' then

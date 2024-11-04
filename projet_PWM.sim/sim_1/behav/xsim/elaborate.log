@@ -1,6 +1,6 @@
 Vivado Simulator v2022.2
 Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Compteur_tb_behav xil_defaultlib.Compteur_tb -log elaborate.log 
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot gene_pwm_tb_behav xil_defaultlib.gene_pwm_tb -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
@@ -11,6 +11,6 @@ Compiling package std.standard
 Compiling package std.textio
 Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
-Compiling architecture archi_compteur of entity xil_defaultlib.Compteur [compteur_default]
-Compiling architecture behavioral of entity xil_defaultlib.compteur_tb
-Built simulation snapshot Compteur_tb_behav
+Compiling architecture archi_gene_pwm of entity xil_defaultlib.gene_PWM [gene_pwm_default]
+Compiling architecture behavioral of entity xil_defaultlib.gene_pwm_tb
+Built simulation snapshot gene_pwm_tb_behav

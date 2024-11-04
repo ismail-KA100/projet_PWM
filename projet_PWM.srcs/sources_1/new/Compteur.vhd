@@ -13,12 +13,12 @@ entity Compteur is
     Port ( ce : in STD_LOGIC;
            raz : in STD_LOGIC;
            clk : in STD_LOGIC;
-           count : out STD_LOGIC_VECTOR (7 downto 0):="00000000");
+           count : out STD_LOGIC_VECTOR (7 downto 0));
 end Compteur;
 
 architecture Archi_Compteur  of Compteur is
 
-signal countc: unsigned(7 downto 0):="00000000";
+signal countc: unsigned(7 downto 0);
 begin
 process(clk,raz)
 begin

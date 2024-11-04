@@ -18,8 +18,8 @@ end Compteur_tb;
 architecture Behavioral of Compteur_tb is
 signal ce :  STD_LOGIC;
 signal raz :  STD_LOGIC;
-signal clk :  STD_LOGIC:='1';
-signal count :  STD_LOGIC_VECTOR (7 downto 0):="00000000";
+signal clk :  STD_LOGIC;
+signal count :  STD_LOGIC_VECTOR (7 downto 0);
 component  Compteur is
     Port ( ce : in STD_LOGIC;
            raz : in STD_LOGIC;
